@@ -72,7 +72,7 @@ Denmark Person (Denmark) : .... Kalau begitu, saya akan menerima permintaan anda
 
 Brazilian Person (Brazil) : Woi! Yang diselatan! Mari bergabung denganku atau kau akan kubully!
 
-(News: Brazil tiba-tiba menyerang negara-negara diselatan tanpa sebab)
+(News: Brazil tiba-tiba menyerang negara-negara diselatan tanpa sebab.)
 
 Paraguay Civilian (Paraguay) : Apaan sih! Brazil sungguh tega menyerang kita.
 Uruguay Civilian (Uruguay) : Kau sebaiknya tidak usah menyerang dadakan seperti itu, bocah!... Kau bocah yang toxic!
@@ -82,7 +82,7 @@ Uruguay Militant (Uruguay) : Kalau begitu, saya akan beritahu kepada negara lain
 Brazilian Person (Brazil) : Saya tidak peduli kalau kamu nyebarkan apa yang saya lakukan. Saya juga bisa hack sistem kalian dengan gampang.... Yang penting kau ikuti perintah saya maka kau akan aman!
 Argentinan Person (Argentina) : Kenapa kita harus mengikuti perintah anda jika kita saja berbeda negara?... Anda terlalu memaksakan kehendak kepada orang lain! Anda Egois.
 
-(Argentina bergabung menyerang Brazil, namun telah menghack sistem militer Argentina dan Uruguay)
+(News: Argentina bergabung menyerang Brazil, namun telah menghack sistem militer Argentina dan Uruguay.)
 
 Multiple Person (Argentina, Uruguay) : Dasar keterlaluan kau Brazil!
 Bolivia Government (Bolivia) : Brazil, mau berhenti atau tidak?... Kau seharusnya berhenti menyerang dengan cara terjelekmu itu.
@@ -134,6 +134,7 @@ United Nations Staff (United Nations) : Apa masalahnya dengan anak-anak tersebut
 
 Brazilian Person (Brazil) : Apa yang sedang kalian bicarakan?
 Ukraine Person (Ukraine) : Masalah penculikan anak oleh alien. Ayo sini. Ada masalah besar yang sedang kita hadapi oleh alien ini.
+
 Mexican Person (Mexico) : Eh, kamu yang toksik itu ya?! Yang langsung nyerang negara diselatanmu?
 Brazilian Person (Brazil) : Hah, adakah saya nyerang negara di selatan? Saya tidak pernah membuat rencana penyerangan ke negara lain.
 Mexican Person (Mexico) : Ada, Brazil! Kamu yang merencanakannya.
@@ -164,9 +165,11 @@ United Nations Staff (United Nations) : Maupun membuat pelatihan parenting wajib
 United Nations Staff (United Nations) : Dan anda juga boleh membuat persenjataan termutakhir dan terampuh dalam melawan alien tersebut. Namun saya peringatkan jangan menggunakan nuklir dalam melawannya. Hal itu sangat riskan pada dunia kita karena radiasinya jika menyebar dapat membuat banyak lahan menjadi tidak layak huni. Semuanya sudah siap?
 Multiple People (Multiple Countries) : Oke, siap.
 
-(Ketika di Bumi)
+(Peta Dunia)
 
 French Person (France) : Mulai saat ini kita akan melakukan riset persenjataan untuk mengusir alien yang melakukan invasi maupun penculikan kepada kita di France.
+
+(Ketika Di Earth - Grassland Indonesia)
 
 (Para alien yang diduga melakukan penculikan datang lagi ke Bumi untuk menculik anak-anaknya yang sebenarnya tidak diketahui alasannya)
 
@@ -195,6 +198,7 @@ Annisa Rinafiana (Indonesia) : Pada hari ini, saya akan memperlihatkan kepada ka
 Annisa Rinafiana (Indonesia) : Ini adalah senjata laser yang canggih.
 Annisa Rinafiana (Indonesia) : Kemudian, baju ruang angkasa dan armornya.... Namun, saya berhasil membunuhnya karena alien ini tidak sempat memakai baju armornya.
 Annisa Rinafiana (Indonesia) : Lalu.... Peta antarbintang ini.... Dengan ada bintang yang namanya.... "Matahari".
+
 Inna Оксана (Ukraine) : Itu bukannya berarti matahari kita?.... Kok mereka bisa tahu Bahasa kamu, Annisa?... Padahal saya tidak pernah melihat mereka berkomunikasi dengan Bahasa Indonesia.
 Annisa Rinafiana (Indonesia) : Sepertinya iya, dia tahu bahasa kita karena mereka diperkirakan mungkin pernah berinteraksi dengan segelintir orang Indonesia.
 Paulo San Marino (Brazil) : Kalau gitu bisa jadi dia memilih lokasi yang mereka culik karena mereka ingin mengkloning DNAnya.... Atau mereka ingin memindahkannya ke dunianya.
@@ -215,9 +219,9 @@ French Person (France) : Oke, saya yang akan melakukan riset bersama para peneli
 Cninese Govermnent (China) : Wait!... Kenapa sih server saya terkena hack.... ARGH!
 Cninese Govermnent (China) : Tapi tunggu, pesan aneh macam apa ini?!... Akan saya buka pesan ini.
 
-Unknown Person : Hai penduduk Bumi, kamu tidak perlu tahu saya ini siapa. Namun, saya peringatkan kepada kalian! Jika kalian masih saja wahai orang tua masih mendidik anak-anakmu dengan cara keras, kolot, membentak, mencaci maki, bahkan mencercanya maka siap-siap kalian akan merasakan akibatnya di masa yang akan mendatang. Mengapa saya membenci kalian? Karena kalian begitu tidak dewasa dan selalu curigaan dengan anak-anak kalian. Seorang anak yang seharusnya mendapat kasih sayang yang sebenarnya malah mendapatkan bentakan. Akibatnya saya dan anak-anak kami dibawa ke dunia kami untuk dirawat oleh sosok ibu mereka disini. Tunggu waktunya!
+Unknown Person : Hai penduduk Bumi, kamu tidak perlu tahu saya ini siapa. Namun, saya peringatkan kepada kalian! Jika kalian masih saja wahai orang tua masih mendidik anak-anakmu dengan cara keras, kolot, membentak, mencaci maki, bahkan mencercanya maka siap-siap kalian akan merasakan akibatnya di masa yang akan mendatang. Mengapa saya membenci kalian? Karena kalian begitu tidak dewasa dan selalu curigaan dengan anak-anak kalian. Seorang anak yang seharusnya mendapat kasih sayang yang sebenarnya malah mendapatkan bentakan. Akibatnya saya dan anak-anak kami dibawa ke dunia kami untuk dirawat oleh sosok ibu mereka disini. Tunggu waktunya! (Hi Earthlings, you don't need to know who I am. However, I'm warn you! If you are still just parents still doing violence towards your children, old-fashioned, shouting, berating, even reviling it then get ready to feel the consequences in the future. Why do I hate you? Because you are so immature and always suspicious of your children. A child who is supposed to get real affection then you shouted them. As a result, my children and I were brought to our world to be cared for by their mother here. Wait for the consequences!)
 
-(Kemudian pesawat alien dari luar menembak ke Bumi)
+(Kemudian pesawat alien dari luar menuju ke sekitar orbit Bumi)
 
 Mysterious Alien : Kapten, pesawat kami telah sampai di sekitar Bumi.... Kita lakukan pemantauan pada peradaban tersebut.
 Mysterious Alien Captain : Oke. Lakukan pemantauan tersebut dengan hati-hati.
@@ -235,7 +239,7 @@ Chinese Government (China) : Serangan apaan ini?!... TIDAK!... Great Firewallku 
 
 Chinese Rebellions (Rebels) : Kami sudah lelah dengan peraturan kau!
 Tibet Rebellions (Rebels) : Cukup dengan peraturanmu yang mengekang ruang gerak kami!
-Taiwan Rebellions (Rebels) : Ini menjadi kesempatan kami untuk mengambil alih daratan China.
+Taiwan Person (Taiwan) : Ini menjadi kesempatan kami untuk mengambil alih daratan China.
 Xinjiang Rebellions (Rebels) : Saatnya membebaskan diri dari penguasa yang semena-mena!
 Chinese Government (China) : Saya tidak akan peduli dengan urusanmu para pemberontak.... Saya akan memenjarakan siapapun yang berani mendemo atau menentang peraturanku.
 
@@ -243,19 +247,19 @@ Chinese Government (China) : Saya tidak akan peduli dengan urusanmu para pembero
 
 USA Person (United States of America) : Oh tidak.... Sebagian besar penduduk China melakukan pemberontakan.
 
-Rebellions (Rebels) : DEMOKRASI!
+Rebellions (Rebels) : REFORMASI!
 Chinese Government (China) : Oh, saya akan melarang dan menangkap kalian satu per satu.
 Rebellions (Rebels) : Kami tidak akan menyerah sampai kau memberikan kebebasan kepada kami semua!
 Chinese Government (China) : Aku tidak akan menyerah sampai titik darah penghabisan!... Tidak akan saya biarkan kalian berkeliaran bebas di negara ini!
 
-(Para rebellions telah memenangkan perang dan China kalah dan runtuh)
+(News: Para rebellions telah memenangkan perang dan China kalah dan runtuh)
 
 Chinese Government (China) : Aku.... Menyerah.... Ini karena kesalahan saya dalam memerintah negara ini.
 Chinese Government (China) : Jadi, maafkan aku dalam hal ini karena selama ini aku bertindak kekanak-kanakan dalam membuat peraturan yang justru menentang kebebasan kalian.
 
 (Treaty of Nanjing)
 (Taiwan, Tibet, dan Xinjiang memenangkan peperangan melawan China. China berubah dari Komunis menjadi Nasionalis.)
-(Tibet bergabung dengan Nepal dan berubah menjadi Himalayan Union)
+(Tibet bergabung dengan Nepal dan Bhutan, lalu berubah menjadi Himalayan Union)
 (Taiwan menyatakan dirinya sebagai Republik China atau China Republic)
 
 Annisa Rinafiana (Indonesia) : Sudah saatnya aku akan meninggalkan kalian.... Karena.... Sekumpulan anak-anak.
