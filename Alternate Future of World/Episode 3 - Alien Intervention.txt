@@ -160,13 +160,13 @@ Waktu malam jam 11.00
 
 Bella Putri (Mysterious Country) : Selamat tidur, anakku. Tidurlah dalam penuh kasih sayang.
 
-Bella Putri (Mysterious Country) : (Dalam hati) Anakku, sebenarnya ibu ini bukan ibu kandungmu. Ibu ini juga bukan bagian dari keluargamu. Namun, ibu sedih melihat kondisimu yang seperti ini di masa lalu. Kamu belum benar-benar stabil dalam emosi akibat cara ibu kandungmu yang salah dalam mendidik kamu. Mengapa aku berusaha mendidikmu dengan penuh kasih sayang. Karena setiap anak ingin dididik dengan orang tua yang baik, dengan artian penuh kasih sayang. Bukan dengan bentakan, ancaman, atau kekerasan. Karena itu, aku akan menjadi ibu sekaligus pacar untukmu. Demi kamu yang penuh kasih sayang. Anak yang dididik dengan penuh kasih sayang nantinya dia akan merindukan pendidik, begitu juga sebaliknya. Ibu tidak ingin membohongimu. Karena itu, ibu akan melindungimu, anakku.
+Bella Putri (Mysterious Country) : (Dalam hati) Anakku, sebenarnya ibu ini bukan ibu kandungmu. Ibu ini juga bukan bagian dari keluargamu. Namun, ibu sedih melihat kondisimu yang seperti ini di masa lalu. Kamu belum benar-benar stabil secara emosi akibat cara ibu kandungmu yang salah dalam mendidik kamu. Mengapa aku berusaha mendidikmu dengan penuh kasih sayang. Karena setiap anak ingin dididik dengan orang tua yang baik, dengan artian penuh kasih sayang. Bukan dengan bentakan, ancaman, atau kekerasan. Karena itu, aku akan menjadi ibu sekaligus pacar untukmu. Demi kamu yang penuh kasih sayang. Anak yang dididik dengan penuh kasih sayang nantinya dia akan merindukan pendidik, begitu juga sebaliknya. Ibu tidak ingin membohongimu. Karena itu, ibu akan melindungimu, anakku.
 
 Besok paginya
 
 Bella Putri (Mysterious Country) : Ibu mendapat undangan dari seorang alien. Bahwa kamu akan dibawa ke peradaban alien untuk diperiksa kondisi kesehatanmu.
 Mysterious Boy (Indonesia) : Apa itu ibu?
-Bella Putri (Mysterious Country) : Hmmmm, kamu akan dibawa ke Pleiadelia untuk dirawat dan melakukan peningkatan harapan hidup. Mungkin seperti mendiagnosa gen kamu.... Namun setidaknya kamu akan kesana saja, ibu tidak bisa menjelaskan lebih.... Sekarang, persiapkan aja peralatan dan barang-barang yang kamu perlukan untuk pergi kesana. Ibu akan ikut mendampingimu bersama si alien Pleiades. Oke?
+Bella Putri (Mysterious Country) : Hmmmm, kamu akan dibawa ke Pleiadelia untuk dirawat dan melakukan peningkatan harapan hidup. Mungkin seperti mendiagnosa gen kamu.... Namun setidaknya kamu akan kesana saja, ibu tidak bisa menjelaskan lebih.... Sekarang, persiapkan saja peralatan dan barang-barang yang kamu perlukan untuk pergi kesana. Ibu akan ikut mendampingimu bersama si alien Pleiades. Oke?
 Mysterious Boy (Indonesia) : Oke.
 
 Pleiadei (Mysterious Country) : Sekarang kita akan pergi kesana. *Semangat*
@@ -177,7 +177,7 @@ Health Center AI Voice : Nomor 221, atas nama Rizky Pramudya. Silahkan masuk.
 Mysterious Boy (Indonesia) : Siapa? Aku?
 Bella Putri (Mysterious Country) : Iya, kamulah yang dipanggil, anakku.
 Rizky Pramudya (Indonesia) : Oh. Aku yang akan kesana sekarang?
-Bella Putri (Mysterious Country) : *Tersenyum dan penuh kelembutan*
+Bella Putri (Mysterious Country) : *Tersenyum dengan penuh kelembutan*
 
 (Sampai di Health Center)
 
@@ -238,7 +238,7 @@ French Person (France) : Oke, aku berikan kepada kalian semua.
 (Beberapa negara melakukan operasi Frontendic dalam hal insiden penculikan alien dan peradaban alien tersebut.)
 (Tidak lama kemudian, mereka berhasil membunuh banyak individu alien tersebut)
 
-Nia Levinia (Indonesia) : Dari operasi yang aku jalankan, aku dan temanku telah berhasil membunuh sebesar puluhan alien serta mengumpulkan peralatan teknologi canggihnya.
+Nia Levinia (Indonesia) : Dari operasi yang kita jalankan, aku dan temanku telah berhasil membunuh sebesar puluhan alien serta mengumpulkan peralatan teknologi canggihnya.
 Pavlov Edward (Russian Federation) : Nia, saya berhasil menembak pesawat yang terbang tersebut.
 Nia Levinia (Indonesia) : Bagus.... Bagaimana dengan kalian?
 Multiple People (Multiple Countries) : Sudah cukup memuaskan!... Kami bisa menangkal serangan dengan lebih efisien.
@@ -253,4 +253,8 @@ French Person (France) : Saya sedang mencari cara untuk mengatasi masalah ini ag
 Taiwan Person (China) : Oh, saya akan menantikan teknologi tersebut.
 
 Di Alpha Centauri
-Pleiadean Shamans Captain (Pleiadean Shamans) : 
+Pleiadean Shamans Person (Pleiadean Shamans) : Kawan, kami gagal dalam menjalankan misi ini.
+Pleiadean Shamans Captain (Pleiadean Shamans) : Hah, apa yang terjadi denganmu?
+Pleiadean Shamans Person (Pleiadean Shamans) : Para tentara dari peradaban Bumi menghancurkan pesawat dan menjarah peralatan kami, kawan.
+Pleiadean Shamans Captain (Pleiadean Shamans) : Coba jelaskan masalah tersebut kepada saya.
+Pleiadean Shamans Person (Pleiadean Shamans) : 
