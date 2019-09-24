@@ -108,12 +108,12 @@ Ethiopian Person (Ethiopia) : Somalia?... Somalia?... Kamu baik-baik saja, kan?
 Somalian Person (Somalia) : ...
 Ethiopian Person (Ethiopia) : Somalia?... Kenapa kamu?
 Somalian Person (Somalia) : ...
-Ethiopian Person (Ethiopia) : Please, jawab pertanyaanku, Somalia?
+Ethiopian Person (Ethiopia) : Please, jawab pertanyaanku, Somalia.
 
-Somalian Person (Somalia) : Aku... Bukan yang kau pikirkan lagi.
+Somalian Person (Somalia) : Aku.... Bukan yang kau pikirkan lagi.
 
 Somalian Person (Somalia) : Aku...
-Stellarian Person (Stellaria) : Aku... Stellaria.
+Stellarian Person (Stellaria) : Aku.... Stellaria.
 Multiple People (Multiple Countries) : What?!
 Stellarian Person (Stellaria) : Orang yang ingin mengunjungi Bumi untuk melakukan penelitian dan penyelidikan di Bumi.
 Ugandan Person (Uganda) : Jadi, selama ini.... Yang melakukan penculikan di waktu sebelumnya itu, Stellaria?
@@ -145,6 +145,8 @@ Bella Putri (Mysterious Country) : *agak sedih* Iya anakku, ibu selalu memaafkan
 Mysterious Boy (Indonesia) : Kok ibu tahu tentang diriku di masa lalu?
 Bella Putri (Mysterious Country) : Ibu membaca buku harianmu di waktu kamu sedang tidur pulas dan waktu kamu sedang pergi keluar.
 Mysterious Boy (Indonesia) : Apa pendapat ibu tentang diriku?
+Bella Putri (Mysterious Country) : ...
+Mysterious Boy (Indonesia) : Ibu?... Ibu kenapa?
 Bella Putri (Mysterious Country) : Ibu merasa sedih dan kasihan dengan kamu. Waktu kamu kecil yang seharusnya berhak untuk bahagia secara psikologis, justru kamu tidak mendapatkannya karena perlakuan kasar dan bentakan dari ibu kandungmu.
 Bella Putri (Mysterious Country) : Di waktu kecilmu yang kamu tulis di buku harianmu, ketika kamu belajar bersama ibu kandungmu. Jika kamu bodoh, ibu kandungmu langsung memarahimu dan membentakmu. Kamupun menangis. Namun sayangnya, ibumu tidak mengerti tentang faktor emosimu dan semakin memarahimu dan menghajarmu. Ketika kamu ingin melawan dengan nada tinggi, ibumu langsung memarahimu dengan nada yang lebih tinggi. Dan saat kamu hanya bertanya satu pertanyaan saja yang menurut ibumu dianggap pertanyaan bodoh, ibumu malah menceramahimu dan melempar tasmu dan kertas soal latihan yang berkaitan dengan akademik ke luar. Bukannya kamu disayang oleh ibumu dengan penuh kasih sayang, kamu malah didoktrin tidak boleh cengeng dan dengan dalih "ibu marah karena sayang". Padahal, menurut ibu secara pribadi, tidak ada marah karena sayang. Ibu merasa kalau ibu kandungmu tidak benar-benar menyayangimu dan hanya memuaskan egonya dia. *murung dan sedih*
 
