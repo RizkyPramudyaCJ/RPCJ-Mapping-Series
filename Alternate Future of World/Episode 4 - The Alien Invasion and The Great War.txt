@@ -37,7 +37,7 @@ Pleiadean Shamans Person (Pleiadean Shamans) : Sekarang, waktunya menghadapi sua
 (Pleiadean Shamans mendeklarasikan perang terhadap Indonesia dan sekitarnya)
 
 Nia Levinia (Indonesia) : Alien, apa-apaan ini!?... Kau sungguh gila!
-Pleiadean Shamans Person (Pleiadean Shamans) : Kami akan mendeklarasikan perang terhadap anda.... Peradaban disini sungguh kolot.
+Pleiadean Shamans Person (Pleiadean Shamans) : Pemikiran anda cukup sempit dan merendahkan.... Wajar saja peradaban disini sungguh kolot.
 Nia Levinia (Indonesia) : Kamu mengatakan saya kolot?!... Ok, Fine!... Saya akan memanggil teman-teman kami dari seluruh penjuru dunia.
 Nia Levinia (Indonesia) : America!... China!... Ukraine!... Malaysia!... Semuanya! Eksistensi peradaban manusia sedang terancam oleh alien dari luar angkasa!
 Nia Levinia (Indonesia) : Karena anak-anak kita, orang-orang yang gak bersalah telah 'diculik' oleh mereka.
@@ -47,3 +47,48 @@ Multiple Person (Humanity) : Oke, akau akan bersedia membantumu, Nia.... Front k
 
 (Semua umat manusia bergabung melawan Pleiadean Shamans. Kecuali, Aceh, Great Timor, Papuan Republic, dan Stellaria.)
 
+Libyan Person (Libya) : Stellaria, kenapa kamu tidak bergabung dengan kami?
+Stellarian Person (Stellaria) : ....
+Libyan Person (Libya) : Stellaria? Ada apa denganmu?
+Stellarian Person (Stellaria) : ....
+
+(Lalu, Stellaria menghilang tanpa sebab)
+
+Libyan Person (Libya) : Oh tidak, dia telah collapse.... Apa yang terjadi disana?... Aku akan pergi ke daerah Stellaria.
+Egypt Government (Egypt) : Libya!... Jangan Kesana!... Bahaya!
+
+Mysterious Person (Mysterious Country) : Saya akan memberi 'kejutan' untuk kalian.
+
+(Libya tidak menggubrisnya, namun tak lama muncullah Pleiadean Shamans di wilayah Stellaria)
+
+Libyan Person (Libya) : What!... Kau!... Bagaimana bisa kau menshutdown negara Stellaria!?... Kenapa kamu melakukan tindakan korup ini?!
+Pleiadean Shamans Person (Pleiadean Shamans) : Kamu tahu?... Sebenarnya Stellaria merupakan organisasi di bawah naungan kami.... Any last words?
+
+Pleiadean Shamans Person (Pleiadean Shamans) : Kami menyatakan perang terhadap anda.
+
+(News: Perang antara Earthlings vs Pleiadean Shamans terjadi (dimulai))
+
+(Pleiadean Shamans menguasai sebagian kecil Afrika dan mendarat di Antartika)
+
+(Pleiadean Shamans memasuki Aceh Islamic Republic dan Great Timor)
+
+Aceh Islamic Republican Person (Aceh Islamic Republic) : Bodoh kau, alien!... Kau benar-benar makhluk yang laknat.... How dare you!?
+Pleiadean Shamans Person (Pleiadean Shamans) : Saya tidak peduli dengan perkataan anda.... Mengapa anda berkata seperti itu kepada kami?
+
+====================
+(Cutscene)
+====================
+
+Anak Laki-laki (Aceh Islamic Republic) : (Aku takut jika mama marah karena itu. aku muak dengan sifat ibu yang menyebalkan seperti itu terus.)
+
+Anak Laki-laki (Aceh Islamic Republic) : (Begitu bobroknya lingkungan masyarakat disini. Aku sudah tidak tahan lagi dengan ini semua.)
+
+Ibu anak laki-laki (Aceh Islamic Republic) : Kamu sudah pulang ya?!... Apa yang kamu dapatkan?!
+Anak Laki-laki (Aceh Islamic Republic) : ...
+Ibu anak laki-laki (Aceh Islamic Republic) : Hei, jawab lah.
+Anak Laki-laki (Aceh Islamic Republic) : ...
+Ibu anak laki-laki (Aceh Islamic Republic) : Kalau mama tanya itu harus dijawab.... Bukannya diam saja.
+Anak Laki-laki (Aceh Islamic Republic) : I-i-ini ma. (Apasih mama ini)
+Ibu anak laki-laki (Aceh Islamic Republic) : (Melihat nilai ulangan tersebut). Hah, kamu dapat nilai D?!... Apa ini!... Sejak awal kamu tidak benar-benar dalam belajar!
+Ibu anak laki-laki (Aceh Islamic Republic) : KAU LEBIH BANYAK BERMAIN KAN?!
+Anak Laki-laki (Aceh Islamic Republic) : 
