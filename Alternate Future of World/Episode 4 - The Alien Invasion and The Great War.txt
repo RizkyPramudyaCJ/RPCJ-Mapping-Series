@@ -87,15 +87,15 @@ Aceh Child's mom (Aceh Islamic Republic) : Kamu sudah pulang ya?!... Apa yang ka
 Aceh Child (Aceh Islamic Republic) : ...
 Aceh Child's Mom (Aceh Islamic Republic) : Hei, jawab lah.
 Aceh Child (Aceh Islamic Republic) : ...
-Aceh Child's Mom (Aceh Islamic Republic) : Kalau mama tanya itu harus dijawab.... Bukannya diam saja.
+Aceh Child's Mom (Aceh Islamic Republic) : Kalau mama tanya itu harus dijawab. Bukannya diam saja.
 Aceh Child (Aceh Islamic Republic) : I-i-ini ma. (Apasih mama ini)
-Aceh Child's Mom (Aceh Islamic Republic) : (Melihat nilai ulangan tersebut). Hah, kamu dapat nilai jelek?!... Apa-apaan ini!... Sejak awal kamu tidak becus dalam belajar!
+Aceh Child's Mom (Aceh Islamic Republic) : (Melihat nilai ulangan tersebut). Hah, kamu dapat nilai jelek?! Apa-apaan ini! Sejak awal kamu tidak becus dalam belajar!
 Aceh Child's Mom (Aceh Islamic Republic) : Apa yang kamu lakukan di sekolah selama ini?!
-Aceh Child (Aceh Islamic Republic) : Aku lebih memilih menekuni apa yang saya tekuni dan saya sukai.... Passion, hobi, dan apapun yang saya sukai sesuai diri saya.
-Aceh Child's Mom (Aceh Islamic Republic) : Oh, jadi kamu lebih menyukai kesenangan daripada belajar?!... Bukankah kau seharusnya belajar yang rajin agar dapat nilai bagus?!
+Aceh Child (Aceh Islamic Republic) : Aku lebih memilih menekuni apa yang saya tekuni dan saya sukai. Passion, hobi, dan apapun yang saya sukai sesuai diri saya.
+Aceh Child's Mom (Aceh Islamic Republic) : Oh, jadi kamu lebih menyukai kesenangan daripada belajar?! Bukankah kau seharusnya belajar yang rajin agar dapat nilai bagus?!
 Aceh Child (Aceh Islamic Republic) : (Apasih, aku benar-benar muak dengan kau.)
-Aceh Child's Mom (Aceh Islamic Republic) : Kamu kan pelajar!... Masa kamu kalah sama anak pintar! Dia saja dapat nilai tinggi, nilai 98!... Kenapa kamu tidak bisa seperti itu?!... Dasar pemalas!... Bisa apa kamu!... Bisanya cuma mengurusi kesenanganmu saja! Seharusnya kamu perbanyak belajar, bukan hobi! Karena itulah yang kau dapat nilai jelek! IYA KAN?!
-Aceh Child (Aceh Islamic Republic) : Kenapa mama seperti itu?!... Nilai 88 saja mama masih anggap salah!... Punya hobi malah salah!... Setiap saya gerak mama selalu menyalahkan saya begitu saja!... Sekarang, saya suka hobi menulis cerita novel mama anggap salah?!... SALAH KAH!!!
+Aceh Child's Mom (Aceh Islamic Republic) : Kamu kan pelajar! Masa kamu kalah sama anak pintar! Dia saja dapat nilai tinggi, nilai 98! Kenapa kamu tidak bisa seperti itu?!... Dasar pemalas!... Bisa apa kamu! Bisanya cuma mengurusi kesenanganmu saja! Seharusnya kamu perbanyak belajar, bukan hobi! Karena itulah yang kau dapat nilai jelek! IYA KAN?!
+Aceh Child (Aceh Islamic Republic) : Kenapa mama seperti itu?! Nilai 88 saja mama masih anggap salah! Punya hobi malah salah! Setiap saya gerak mama selalu menyalahkan saya begitu saja!... Sekarang, saya suka hobi menulis cerita novel mama anggap salah?!... SALAH KAH!!!
 Aceh Child's Mom (Aceh Islamic Republic) : IYA ANAK GOBLOK!!! ITU SUDAH JELAS-JELAS SALAH!!! HOBI SEPERTI ITU TIDAK ADA MANFAATNYA BUAT KAMU!!! APA KAMU TIDAK BOSAN MENULIS TERUS?! COBA KAMU BELAJAR, NILAIMU ITU MASIH RENDAH!!! JANGAN BANGGA DAN TENANG-TENANG SAJA DENGAN NILAIMU ITU!!! BELAJAR, SEKOLAH YANG BENAR, KULIAH, KERJA, LALU NIKAH. PASANGANMU MAMA YANG MENENTUKAN JODOHNYA!!! KAMU HARUS IKUT MAMA!!!
 
 Aceh Child (Aceh Islamic Republic) : *Mulai menangis karena kesal dan terkena amarah dari ibunya*
@@ -127,11 +127,45 @@ Aceh Child (Aceh Islamic Republic) : Iya, makasih kau telah bersedia disini untu
 
 (Aceh Child akan dibawa oleh Pleiadean Shamans keluar dari Bumi untuk dicarikan tempat yang penuh kasih sayang di peradaban yang jauh sana)
 
-Pleiadean Shamans Person (Pleiadean Shamans) : Mulai sekarang, kamu akan menghadapi konsekuensi dari perbuatan kau kepada anakmu. Kami akan selalu memantau semua yang ada di Bumi ini. Wajar saja Indonesia sedang bobrok karena kekolotan dan kekonservatifan masyarakatnya. Tidak mau membuka diri dan beradaptasi, maunya hidup dengan peraturan di masa lalu semacam kau! Sekarang kau dan anakmu akan kami pisahkan karena perlakuan buruk olehmu kepadanya!
+Pleiadean Shamans Person (Pleiadean Shamans) : Mulai sekarang, kamu akan menghadapi konsekuensi dari perbuatan kau kepada anakmu. Kami akan selalu memantau semua yang ada di Bumi ini. Wajar saja Indonesia sedang bobrok karena kekolotan dan kekonservatifan masyarakatnya. Tidak mau membuka diri dan beradaptasi, maunya hidup dengan peraturan di masa lalu semacam kau! Sekarang kau dan anakmu akan kami pisahkan karena perlakuan burukmu kepada anakmu sendiri!
+Pleiadean Shamans Person (Pleiadean Shamans) : Kau tidak akan pernah dirindukan oleh anakmu sendiri.
 
 (Pleiadean Shamans keluar dari rumahnya dan meninggalkan Bumi)
 
-Aceh Child's Mom (Aceh Islamic Republic) : Argh!!! Sungguh durhaka!!! ANAK DURHAKA!!! ORANG ASING DURHAKA!!! ALIEN DURHAKA!!! SEMUA MANUSIA DI BUMI SAMA SAJA!!! TIDAK ADA YANG NURUT DENGAN ORANG TUANYA!!! PERGI SAJA DARI SINI!!! PERGI!!! SUATU SAAT KAU AKAN MENYESAL KARENA PERBUATANMU!!!
+Aceh Child's Mom (Aceh Islamic Republic) : Argh!!! Sungguh durhaka!!! ANAK DURHAKA!!! ORANG ASING DURHAKA!!! ALIEN DURHAKA!!! SEMUA MANUSIA DI BUMI SAMA SAJA!!! DURHAKA DAN TIDAK MAU DIUNTUNG!!! TIDAK ADA YANG MAU NURUT DENGAN ORANG TUANYA!!! PERGI SAJA DARI SINI!!! PERGI!!! SUATU SAAT KAU AKAN MENYESAL KARENA PERBUATANMU!!!
 
 (Di sebuah daerah di Samarinda, Kalimantan Timur)
 
+Mysterious Woman (Indonesia) : Marina!... Apa ini?!... Ini semua gara-gara kamu kan?!... JAWAB!!!
+Marina (Indonesia) : Bu... Apa salahku, bu?... Apa?
+Mysterious Woman (Indonesia) : Salahmu tuh banyak!... Malas belajar, menyusahkan orang tua, mencari gara-gara, tidak mau nurut sama orang tua!
+Marina (Indonesia) : Tapikan bu, aku tidak ada niat untuk mempersulit ibu.... Aku hanya ingin membahagiakan ibu.... Apalagi?
+Mysterious Woman (Indonesia) : Sudah! Saya tidak mau tahu kamu mau berkata apapun, berlaku apapun!... Intinya kamu hanya seorang anak!
+
+Pleiadean Shamans Person (Pleiadean Shamans) : Sepertinya ibu tersebut pernah kita lihat waktu kita mengobservasinya 5 tahun yang lalu.
+Pleiadean Shamans Person (Pleiadean Shamans) : Sepertinya kamu benar juga dalam hal ini.
+
+Mysterious Woman (Indonesia) : Kau bukan anak ibu sekarang!... Sekarang kamu harus meminum jamu ini!... MINUM SEKARANG!!!
+Marina (Indonesia) : Hppp.... Hmmm.... Gak... Mauuuhhh bu....
+Mysterious Woman (Indonesia) : Nurut!... Minuman ini begitu 'menyehatkan' buatmu. Minum makanya! KAMU AKAN MENYESAL HINGGA 7 TURUNAN!!!
+Marina (Indonesia) : Hppp.... Hmmm.... Hmmmpth.... Ah!!!
+
+(Anak tersebut ditusuk pisau oleh ibunya)
+
+Marina (Indonesia) : Buuu, jangan buuu.... Sakit bu!... Jangan!
+
+(Anak tersebut tidak sadarkan diri dengan berceceran darah)
+
+Pleiadean Shamans Person (Pleiadean Shamans) : Eh, ibu tersebut telah membunuh anaknya sendiri.... Kita kejar ibu tersebut sekarang!
+
+Mysterious Woman (Indonesia) : (Apa-apaan ini! Sialan!)
+
+(Mysterious Woman tahu suara orang yang mengejarnya. Dia melarikan diri sekencang-kencangnya dari kejaran Pleiadean Shamans)
+
+(Di Hutan)
+
+Mysterious Woman (Indonesia) : Tempat apa ini?!... Seperti tempat dari dunia lain?... Surga dari tuhan?... Aku akan segera kesana.... Aku takut dikejar oleh intel yang suka ikut campur.
+
+(Mysterious Woman memasuki portal tersebut. Kemudian portal tersebut hilang dari penampakannya)
+
+Pleiadean Shamans Person (Pleiadean Shamans) : Tunggu!... Kemana wanita tersebut?
