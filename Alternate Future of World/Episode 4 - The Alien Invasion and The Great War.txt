@@ -30,11 +30,11 @@ Pleiadean Shamans Person (Pleiadean Shamans) : Karena itu, kami akan menolong an
 Ternate Person (Ternate Empire) : Itu bukan urusanmu!... Kenapa kamu membela yang salah?!... Sudah pasti dia salah, wajar kami melakukan itu karena sayang!
 Pleiadean Shamans Person (Pleiadean Shamans) : Karena kau dan orang Bumi bermindset primitif, kau yang masih memelihara kekerasan, kau akan menghadapi konsekuensinya.
 
-(Pleiadean Shamans melakukan penyerangan ke Ternate Empire)
+(News: Pleiadean Shamans melakukan penyerangan ke Ternate Empire)
 
 Pleiadean Shamans Person (Pleiadean Shamans) : Sekarang, waktunya menghadapi suatu 'peringatan'.... Kami membawa peralatan dan senjata dengan teknologi 'mutakhir' kami.
 
-(Pleiadean Shamans mendeklarasikan perang terhadap Indonesia dan sekitarnya)
+(News: Pleiadean Shamans mendeklarasikan perang terhadap Indonesia dan sekitarnya)
 
 Nia Levinia (Indonesia) : Alien, apa-apaan ini!?... Kau sungguh gila!
 Pleiadean Shamans Person (Pleiadean Shamans) : Pemikiran anda cukup sempit dan merendahkan.... Wajar saja peradaban disini sungguh kolot.
@@ -45,14 +45,15 @@ Nia Levinia (Indonesia) : Kita harus mempertahankan eksistensi peradaban manusia
 Nia Levinia (Indonesia) : Kalian bersedia membantu kami?
 Multiple Person (Humanity) : Oke, kita akan bersedia membantumu, Nia.... Kami akan bersedia mempertahankan peradaban manusia hingga kita menang.
 
-(Semua umat manusia bergabung melawan Pleiadean Shamans. Kecuali, Aceh, Great Timor, Papuan Republic, dan Stellaria.)
+(News: Semua umat manusia bergabung melawan Pleiadean Shamans. Kecuali, Stellaria.)
+(Aceh, Great Timor, Papuan Republic bertahan melawan Pleiadean Shamans)
 
 Libyan Person (Libya) : Stellaria, kenapa kamu tidak bergabung dengan kami?
 Stellarian Person (Stellaria) : ....
 Libyan Person (Libya) : Stellaria? Ada apa denganmu?
 Stellarian Person (Stellaria) : ....
 
-(Lalu, Stellaria menghilang tanpa sebab)
+(News: Lalu, Stellaria menghilang tanpa sebab)
 
 Libyan Person (Libya) : Oh tidak, dia telah collapse.... Apa yang terjadi disana?... Aku akan pergi ke daerah Stellaria.
 Egypt Government (Egypt) : Libya!... Please jangan!
@@ -192,13 +193,13 @@ Mapping Mode
 ====================
 
 +1 Tahun Bumi
-(Pleiadean Shamans menakhlukkan Asia tenggara, Utara Afrika, Bagian selatan Afrika Selatan, dan semua negara Pro conservative dekat Indonesia, Papua Nugini, Australia)
+(Pleiadean Shamans menakhlukkan Asia tenggara, Utara Afrika, Bagian selatan Amerika Selatan, dan semua negara Pro conservative dekat Indonesia, Papua Nugini, Australia)
 
 Pleiadean Shamans Person (Pleiadean Shamans) : Umat Manusia Bumi, itulah yang kalian dapatkan.... Kamu tidak bisa menjadi manusia yang beradab.... Terutama kau, Indonesia.
 Pleiadean Shamans Person (Pleiadean Shamans) : Dan juga sebagian negara di dekatmu karena pemikiran kalian yang cukup kolot dan 'terbelakang'.... Sungguh peradaban bermental primitif.
 
 +1 Tahun Bumi
-(Pleiadean Shamans menguasai seluruh Asia tenggara, sebagian asia timur, timur tengah kecuali Saudi Arabia dan sebagian Turkey. Sebagian besar Afrika, sebagian besar Afrika Selatan, dan semua negara Pro conservative dekat Indonesia, Papua Nugini, Australia)
+(Pleiadean Shamans menguasai seluruh Asia tenggara, sebagian asia timur, timur tengah kecuali Saudi Arabia dan sebagian Turkey. Sebagian besar Afrika, sebagian besar Amerika Selatan, dan semua negara Pro conservative dekat Indonesia, Papua Nugini, Australia)
 
 Turkey Person (Turkey) : Sudah 3 tahun kita berperang melawan alien ini.
 Turkey Person (Turkey) : Saya pikir perang ini sungguh mustahil.... Dalam mempertahankan peradaban ini.
@@ -216,7 +217,6 @@ Huancan Person (Huanca) : Aku menyerah.
 
 Saudi Arabian Person (Saudi Arabia) : Salam France, senjatamu yang termutakhir tidak mempan menyerang alien ini. Teknologi pertahanan mereka jauh lebih canggih dari yang kita kira.
 France Government (France) : Waduh, gawat?!... Kalau begitu, Semuanya! Kita luncurkan senjata nuklir dan rudalnya.
-
 Pavlov Edward (Russian Federation) : France, percuma kamu meluncurkan senjata nuklir dan rudal ke alien tersebut.... Kamu lebih baik menggunakan cara lain untuk mendorong balik serangan alien ini.
 France Government (France) : Pavlov, kita tidak punya harapan lagi untuk melakukan hal itu.... Luncurkan saja nuklir yang kita punya.... Mungkin ini tidak mempan.
 France Government (France) : Namun, setidaknya kita dapat melakukan yang terbaik demi umat manusia.... Langsung luncurkan senjata yang kalian punya!
@@ -236,7 +236,6 @@ USA Person (United States of America) : Nia, angkatan militer saya akan segera m
 USA Person (United States of America) : Dan untuk umat manusia, ganti strategi kalian.... Saya akan ke Indonesia.... Russia, China, dan sekitarnya teruslah bertahan melawan alien tersebut.
 USA Person (United States of America) : Kemudian, France, Inggris, Greenland, Semua negara di Afrika segera pindah dan fokus menyerang balik alien tersebut ke Asia Tenggara.
 USA Person (United States of America) : Dan sisanya, fokuslah mempertahankan wilayah kalian.
-
 USA Person (United States of America) : Terakhir, jika riset kita telah selesai dilakukan.... Kita akan berniat membuat senjata laser untuk melindungi umat manusia dari Bumi dan melakukan penembakan laser ke luar angkasa.
 
 (Kekuasaan Pleiadean Shamans hilang 30%)
@@ -248,7 +247,6 @@ USA Person (United States of America) : Oke, pembuatan senjata telah selesai....
 USA Person (United States of America) : Oh, sialan!
 Pleiadean Shamans Person (Pleiadean Shamans) : Umat manusia, kalian cukup hebat namun cukup keterlaluan!
 Pleiadean Shamans Person (Pleiadean Shamans) : Kami akan memanggil personil kami.... Sekarang, saya akan meluncurkan superweapon yang mengejutkanmu.
-
 Nia Levinia (Indonesia) : Oh tidak, dia akan menembakkan laser besar tersebut dengan pesawat antariksanya untuk membumihanguskan semua kehidupan yang ada di bumi ini.
 Nia Levinia (Indonesia) : Akankan kita akan punah karena kesalahan kita?... Atau karena ulah mereka sendiri?... Kita tidak punya harapan lagi untuk hidup di Bumi ini.
 
@@ -268,7 +266,6 @@ Pleiadean Shamans Person (Pleiadean Shamans) : 1.
 Nia Levinia (Indonesia) : Apa salahku?... Mungkin apa yang dikatakan oleh alien tersebut memang benar.... Aku merasa bersalah atas perbuatanku ini.
 
 Pleiadean Shamans Person (Pleiadean Shamans) : Dan sekarang, waktumu sudah habis. Saatnya eksistensi kalian akan berakhir. Selamat tinggal, manusia Bumi-
-
 Mysterious Person (Mysterious Country) : Pleiades, hentikan ini!
 Mysterious Person (Mysterious Country) : Ya, kumohon kepada kalian untuk menghentikan penembakan laser ini.
 Pleiadean Shamans Person (Pleiadean Shamans) : Kenapa, Pleiadei, Annisa?... Umat manusia Bumi memang masih bermental primitif dan kolot, maka saya akan melakukan hal ini.
