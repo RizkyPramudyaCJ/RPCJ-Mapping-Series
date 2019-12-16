@@ -134,8 +134,14 @@ Uiltran Person (Uiltra) : Apa-apaan kamu ini tentang dimensi lain?... Dimensi la
 Miyagian Person (Miyagi) : Tamagutchi, saya mendengar jika dimensi lain benar-benar ada.... Apa pendapatmu?
 Tamagutchian Person (Tamagutchi) : Saya juga baru dengar tentang keberadaan dimensi lain.
 Rizky Pramudya (Trovidia Community) : Percayalah semuanya, dimensi lain memang ada.... Tim penyelamat saya sudah datang, segera evakuasi semua pendudukmu kesitu.... Saya akan segera membawanya ke dunia yang baru.
+Montgomerian Person (Montgomere) : Kenapa kapasitas pesawatnya hanya sedikit saja?... Penduduk Sky Isles jauh lebih banyak dari itu.
+Feradian Person (Feradia) : Penduduk saya tidak kebagian tempat, orang asing.... Apa yang harus saya lakukan untuk ini?
+Rizky Pramudya (Trovidia Community) : Maaf kawan, total kapasitas yang dapat dibawa hanya sekitar 25 juta dan sekarang sudah penuh. Pesawat saya sekitar 250 pesawat. Namun, kamu sebaiknya teruslah menahan serangan Atlantis.... Mereka cukup berbahaya.... Sampai bantuan dari kami datang untukmu.
+Sunrise Republican Person (Sunrise Republic) : 25 juta?... Ini masih kurang.
+Rizky Pramudya (Trovidia Community) : Memang masih kurang, namun setidaknya itu membantu banyak kok.... Tunggu saja bantuan dari kami.... Saya harus mencarikan penduduk kalian ini dunia yang baru dan aman di dimensi lain.
+Sunrise Republican Person (Sunrise Republic) : Okay, semoga beruntung.
 Ampheres (Atlantis) : Mau lari kemana kau, orang asing?!... Pasukan terbaikku sedang berusaha menahanmu.... Kamu bisa apa sekarang?... Diam?... Pathetic!
-Rizky Pramudya (Trovidia Community) : Kamu jangan meremehkan aku, Ampheres!... Rasakan panas yang saya lempar kepadamu!
+Rizky Pramudya (Trovidia Community) : Kamu jangan meremehkan aku, Ampheres!... Rasakan serangan yang saya lempar kepadamu!
 
 (Rizky Pramudya menggunakan sihir. Sihir tersebut bernama Sun Rune. Dia menggunakannya dari situs asteroid yang telah ia ekstrak. Dia tembak ke semua negara Nyami Clan.)
 
@@ -149,11 +155,19 @@ Ampheres (Atlantis) : SIALAN!... Mereka berhasil kabur dari sini!... Bagaimana i
 Uiltran Person (Uiltra) : Kita bisa kehilangan kontrol akibat sebuah cahaya yang datang dari langit tadi.... Oh, heck!
 Ampheres (Atlantis) : Kita harus mencari cara untuk mencegat mereka dan orang asing tersebut!... Dan tentunya,... Kau Cali!
 
+(Black screen)
+
 Rizky Pramudya (Trovidia Community) : Aku akan mencoba untuk mencari nomor dimensi untuk menyelamatkan penduduk ini.
 
 Rizky Pramudya (Trovidia Community) : Oh sialan!... Aku salah memasukkan nomor dimensinya!
 
 (Penampilan dimensi lain yang bernama Other Earth Dimension dengan nomor Dimensi 31 di tahun 1962 CE)
+
+Dimension: 31
+Dimension Name : Other Earth Dimension
+Year: 1962 CE
+
+(Menampilkan peta dunianya)
 
 ==================================================
 English
