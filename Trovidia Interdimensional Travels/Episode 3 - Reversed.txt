@@ -1,0 +1,23 @@
+Script made by a mapper from Indonesia, Rizky Pramudya (2019).
+This script is licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+(creativecommons.org/licenses/by/4.0/)
+
+Dimension: 31
+Dimension Name : Other Earth Dimension
+Year: 1962 CE
+
+==================================================
+Bahasa Indonesia
+==================================================
+
+(Menampilkan peta dunianya)
+
+==================================================
+English
+==================================================
+
+Dimension: 31
+Dimension Name : Other Earth Dimension
+Year: 1962 CE
+
+(Show World Map)
