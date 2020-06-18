@@ -1,0 +1,268 @@
+Script made by a mapper from Indonesia, Rizky Pramudya (2020).
+This script is licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+(creativecommons.org/licenses/by/4.0/)
+
+Some idea is from Ginum. American Kingdom is belongs to Ginum and Zealandia Mapping.
+Sky Isles is belongs to Zealandia Mapping.
+
+Dimension : 1-57
+Dimension Name : New Haven Dimension
+Year : 2817 CE
+Status : Safe.
+Location : Setropis, Miftahul
+Planet Details : 
+a) Average Temp : 12 C
+b) Populations : 949854116 (+1.1% Annual growth)
+c) Dominant Species : Homo sapiens sapiens
+d) Evolution Phase : Space Stage
+e) Civilization Phase : Interstellar Age
+
+==================================================
+Bahasa Indonesia
+==================================================
+
+(Di Strand)
+Horizon Initiative Person (Montgomere) : Proyek ini hampir selesai untuk dilakukan. Selangkah lagi, kita akan menyaksikan sejumlah jutaan penduduk untuk bersiap menjalankan misinya.
+
++1 Tahun Bumi
+United States of American Person (United States of America) : Saat ini, saya akan berusaha membangun pesawat antariksa untuk membawa manusia menuju planet yang bernama Gloria. Planet keenam dari Neo Vida.
+
+United States of American Person (United States of America) : Kita sudah mendapatkan bahan yang dibutuhkan untuk membuatnya. Kita sudah mendapatkan tutorial dari Starlight Order.
+
+Horizon Initiative Person (Montgomere) : Proyek sudah selesai. Pesawat antariksa ini siap untuk diluncurkan beberapa bulan lagi. Kami akan memposting sebuah formulir untuk penduduk Starlight Order dan ex-member Horizon Clan yang ingin mengikuti program kolonisasi planet lain.
+
+Louisa Knonoke (Starlight Order) : Sudah beberapa hari lagi. Apa kita sudah siap untuk melakukan kolonisasi ke planet lain?
+Horizon Initiative Person (Montgomere) : Sedikit lagi. Kita perlu mempersiapkan fasilitas-fasilitas, logistik, keamanan, dan beberapa hal lainnya agar masyarakat nyaman saat menumpang di pesawat kami. Tidak hanya itu, masyarakat akan tetap aman dan nyaman ketika berada di planet lain.
+Louisa Knonoke (Starlight Order) : Ah, oke. Masyarakat kami tidak sabar menantikan hal ini.
+Horizon Initiative Person (Montgomere) : Masyarakat saya juga begitu.
+
+Louisa Knonoke (Starlight Order) : Hari ini adalah hari untuk menjalankan misi kolonisasi. Tujuannya ke planet Lion-11l. Planetnya sebagian besar tertutup oleh es. Namun, di sisi siang berupa daratan yang ditumbuhi berupa tanaman. Planet ini bermassa 0.9 kali massa Bumi.
+
+Louisa Knonoke (Starlight Order) : Jika kalian siap, rakyatku. Kita akan meluncur. 
+
+Louisa Knonoke (Starlight Order) : Waktunya kita kolonisasi planet Frossia
+
+(Beberapa waktu kemudian)
+(On Frossia)
+
+Louisa Knonoke (Starlight Order) : Kita telah sampai sekarang. Mari kita kolonisasi planet ini segera dengan cara membangun sebuah kubah terlebih dahulu.
+
+(On Strand)
+
+United States of American Person (United States of America) : Setelah melalui uji coba. Pengujian sudah lolos dalam uji kelayakan. Pembuatan pesawat antariksa telah selesai dengan cukup memuaskan. Kita umumkan dan posting sebuah tiket bagi siapa saja yang ingin ikut ke Gloria.
+
+United States of American Person (United States of America) : Waktu sudah tiba. Pesawat antariksa yang bernama Kepler Expedia akan segera diluncurkan. Apakah kalian bersedia?!
+Multiple Person (Multiple Countries) : Ya.
+
+Strand News Broadcaster (Strand International Organization) : Pesawat buatan United States of America yang bernama Kepler Expedia ini segera meluncur menuju planet keenam dari Neo Vida yang disebut Gloria.
+
+(On Gloria (Lion-11f))
+
+Polandian Person (Poland) : Inikah dunia yang akan diduduki? Apakah kita bisa langsung menduduki planet ini?
+United States of American Person (United States of America) : Tidak, tahan dulu, Poland.
+Polandian Person (Poland) : Kenapa harus menunggu dulu? Kan kita tinggal langsung kolonisasi saja, nanti kita tahu dampaknya bagaimana. Apakah ada resiko apa tidak?
+United States of American Person (United States of America) : Kita harus mengecek komposisi dan kondisi pada planet ini sebelum kita memutuskan untuk mengkolonisasinya. Kalau kita langsung mengkolonisasi planet ini tanpa pertimbangan atau mengeceknya nanti akan menjadi masalah dengan penduduk kita.
+
+(USA mengecek kondisi dan komposisi pada Gloria.)
+
+United States of American Person (United States of America) : Oke, planet ini bermassa 1% lebih besar dari massa Bumi. Dan di sisi siangnya, saya yakin cocok untuk ditinggali oleh manusia. Suhunya juga masih aman untuk ditinggali. Rata-rata 290 derajat Kelvin atau 18 derajat Celsius. Mari kita bangun koloni di sini.
+
+Bangladesh Person (Bangladesh) : America. Saya sepertinya menemukan sesuatu yang aneh. Coba lihat di daerah rimba tersebut.
+United States of American Person (United States of America) : Apa itu, Bangladesh?
+Bangladesh Person (Bangladesh) : Sepertinya kok di sana ada bangunan balok berwarna hitam ya? Dan jumlahnya belum diketahui. Setelah saya cek sendirian, sepertinya tidak ada apa-apa di sana. Binatang pada lari ketika ada pemicunya. Ada apa ya di sana. Amerika, bisakah kau membantu membawa tim ekspedisimu dan membawa beberapa sukarelawan serta tim senologi untuk mencoba mendatangi rimba tersebut dan memecahkan misteri ini?
+United States of American Person (United States of America) : Ya, saya akan menyetujui permintaanmu.
+
+(Di suatu Rimba)
+
+Bangladesh Person (Bangladesh) : Di sini letaknya.
+
+Bangladesh Person (Bangladesh) : Asap apa ini? Saya tidak tahu darimana asal ini. Takutnya saya merasa seperti didatangi oleh hantu yang mengerikan ini. Warna asapnya hitam lagi. Belum lagi ada suara samar-samar yang kuduga itu dari penghuni aneh yang jangan-jangan itu berasal dari aktivitas yang memicu asap seperti ini.
+United States of American Person (United States of America) : Tidak ada hantu seperti itu, Bangladesh. Saya pikir mungkin kamu benar dalam hal penghuni itu. Tapi, siapa yang tahu kalau kita tidak mencari tahu terlebih dahulu? Mari kita cari tahu tentang misteri ini.
+
+(Di suatu tempat di Rimba)
+
+United States of American Person (United States of America) : Kita sudah jalan sejauh mungkin tapi tidak sampai pada tempat yang di tuju. Tapi kenapa asap ini sampai keluar dari rimba ini? Padahal kita sudah lama mencari penghuni di rimba ini.
+Bangladesh Person (Bangladesh) : Kita istirahat saja dulu di sini.
+
+(Beberapa waktu kemudian)
+
+Mysterious Native Individual (Mysterious Native Country) : Halo, pengunjung dari luar. Saya di sini untuk kalian.
+Bangladesh Person (Bangladesh) : Oh tidak, ini rasanya mengerikan.
+
+Mysterious Native Individual (Mysterious Native Country) : BWAAAAAAAAAAA!
+
+(Trovidia Dimension)
+
+(Rizky Pramudya berjalan di taman. Kemudian, dia duduk di suatu tempat.)
+
+Rizky Pramudya (Trovidia Community) : Uh, lelahnya aku. Aku bingung harus melakukan apa lagi setelah beberapa tahun ini?
+
+Rizky Pramudya (Trovidia Community) : Aku berpikir, kenapa ya semua dimensi yang aku kunjungi selalu didominasi oleh umat manusia? Kenapa tidak didominasi oleh spesies lain? Aku ingin tahu bagaimana jika Bumi dihuni oleh spesies Neanderthalensis, Ergaster, atau Floresiensis dan Homo sapiens sudah punah sebelumnya di dunia tersebut? Apakah ada Einstein atau Newton versi Neanderthal?
+
+(5 jam kemudian)
+
+Rizky Pramudya (Trovidia Community) : Aku akan mencoba untuk pergi ke dunia tersebut.
+
+Dimension : 1-4
+Dimension Name : Neanderthal Dimension
+Year : 1720 NY
+Status : Safe.
+Location : Earth, Sol
+Planet Details : 
+a) Average Temp : 14.8 C
+b) Populations : 4976500213 (+1.1% Annual growth)
+c) Dominant Species : Homo neanderthalensis
+d) Evolution Phase : Industrial Stage
+e) Civilization Phase : Information Age
+
+Rizky Pramudya (Trovidia Community) : Uh, kota ini tidak seperti biasanya. Para manusia ini aneh. Mereka mirip dengan spesies Neanderthal yang saya temukan di situs internet tentang evolusi manusia. Jika benar mereka ini Homo neanderthalensis, apakah benar dunia ini dikuasai oleh para Neanderthal?
+
+(Kemudian Rizky Pramudya berjalan-jalan menelusuri kota itu)
+
+Neanderthal Person (Mysterious Country) : Hei, kau! Kau telah melanggar sebuah perbatasan negara!
+Rizky Pramudya (Trovidia Community) : What? Oh tidak, sekumpulan petugas keamanan. Aku harus lari dari mereka!
+
+(Rizky Pramudya lari dari orang tersebut namun kecapaian, hingga akhirnya tiba-tiba tanpa disadarinya. Mereka berada di belakangnya Rizky.)
+
+Neanderthal Person (Mysterious Country) : Kau akan ditangkap. Kau akan diinterogasi karena kamu berperilaku aneh.
+Rizky Pramudya (Trovidia Community) : What? Apanya yang aneh? Kenapa kalian menangkapku? Apa yang salah?
+Neanderthal Person (Mysterious Country) : Kau tidak perlu tahu tentang itu. Intinya anda akan diinterogasi.
+Rizky Pramudya (Trovidia Community) : Oh, jangan interogasi aku seenaknya. Kalian tidak bisa menangkap orang untuk diinterogasi hanya karena orang tersebut berperilaku aneh.
+Neanderthal Person (Mysterious Country) : Oh jangan salah. Selama orang tidak sesuai dengan norma yang ada, maka kami menangkapnya.
+Rizky Pramudya (Trovidia Community) : Kalian gila.
+
+(Di ruang interogasi)
+
+Neanderthal Person (Mysterious Country) : Dari hal ini, kamu seorang manusia dari Sentinelese Kingdom. Apakah ini benar?
+Rizky Pramudya (Trovidia Community) : Negara apa itu? Aku tidak pernah mendengar nama negara tersebut? Setahuku aku mendengar ada negara United States of America, Germany, France, China, Russian Federation, Sudan, Indonesia, Laos.
+Neanderthal Person (Mysterious Country) : Bohong. Bicara apa kamu? Tidak ada negara seperti itu di sini!
+Rizky Pramudya (Trovidia Community) : Aku kan bilang itu setahuku. Apakah kamu tahu tentang hal itu?
+Neanderthal Person (Mysterious Country) : Tidak, maaf manusia aneh. Negara tersebut tidak ada di sini sebenarnya. Dari gelagatmu, kamu sebenarnya belum menjawab pertanyaanku. Apa kamu berasal dari Sentinelese Kingdom? Jawab pertanyaan ini.
+Rizky Pramudya (Trovidia Community) : Tidak, aku bukan dari Sentinelese Kingdom. Aku dari Trovidia-
+Neanderthal Person (Mysterious Country) : Bohong. Mana mungkin kamu bukan dari Sentinelese Kingdom. Buktinya kamu orang Sentinel. Warna kulitnya saja yang berbeda. Hanya 3 negara manusia di sini. Humana, Humanamia, dan Sentinelese Kingdom.
+Rizky Pramudya (Trovidia Community) : Asal kalian tahu ya! Kalau aku memang benar berasal dari ketiga negara tersebut, tidak mungkin aku berjalan menuju dimensi lain! Tidak mungkin juga aku menggunakan busana dan baju yang sama dari mereka bertiga! Paham?! Kolot sekali kalian!
+Neanderthal Person (Mysterious Country) : Oh, berani juga kau, manusia! Kau lebih baik kembali saja ke pulau kecil yang miskin tersebut! Dimensi lain itu tidak ada!
+Rizky Pramudya (Trovidia Community) : Daripada kalian bermulut besar, lebih baik kalian lebih baik bawakan diri saya ke pulau tersebut. Interogasi ini hanyalah buang-buang waktu saya saja!
+Neanderthal Person (Mysterious Country) : (Menggoreskan tangannya dengan pisau atau senjata elektrik)
+Rizky Pramudya (Trovidia Community) : Argh! Kau... kau... Kalian sungguh gila!- Argh! AAAAAAAAAARRRRRGGGHHHHH!!! Jangan! Jangan! Jangan! Jangan! Jangan! Hentikan ini!
+Neanderthal Person (Mysterious Country) : Kau sudah tahu bagaimana rasanya kalau melanggar perbuatan hukum dan disandera di ruang ini, manusia aneh.
+Rizky Pramudya (Trovidia Community) : Kau tidak sebaiknya melakukan hal itu! Perbuatan kalian salah.
+Neanderthal Person (Mysterious Country) : Tidak, itu salah kau. Kau sebaiknya menjawab dengan jujur. (Menggoreskan tangannya dengan pisau atau senjata elektrik)
+Rizky Pramudya (Trovidia Community) : ARGH! Jangan! Jangan! JANGAN!
+
+Neanderthal Police (Mysterious Country) : Berhenti untuk menyakiti seorang manusia! Kalian bertiga telah melakukan tindakan kriminal terhadap spesies Homo sapiens sapiens karena perbuatan kalian!
+Neanderthal Person (Mysterious Country) : Ya, hukuman yang kalian berikan kepadanya telah melanggar ketentuan hukum! Kalian tidak becus menjadi seorang interogator!
+
+Neanderthal Person (Mysterious Country) : Apakah kamu baik-baik saja?
+Rizky Pramudya (Trovidia Community) : I-iya. Tapi, masih ada sengatan listrik.
+Neanderthal Person (Mysterious Country) : Ah, sebenarnya kamu tidak dalam keadaan yang baik bagi tubuhmu. Sengatan tersebut cukup berbahaya buat tubuhmu. Maukah kamu untuk diperiksakan di rumah sakit terdekat?
+Rizky Pramudya (Trovidia Community) : Kenapa? Aku baik-baik saj- ARGH!
+Neanderthal Person (Mysterious Country) : Kamu sebenarnya perlu perawatan secepat mungkin. Kamu hampir saja mati. Saya akan membawamu ke rumah sakit.
+
+(Black Screen, beberapa waktu kemudian.)
+
+Rizky Pramudya (Trovidia Community) : Makasih telah membantuku.
+Neanderthal Person (Mysterious Country) : Terima kasih kembali. Siapa kamu? Kamu berasal dari mana? Mengapa kamu mirip dengan orang Sentinel? Apakah kamu benar orang Sentinel?
+Rizky Pramudya (Trovidia Community) : Hahahaha, tidak lah. Aku bukan dari pulau Sentinel Utara. Aku manusia dari Trovidia Community. Di Setropis. Kamu tahu Setropis? Itu dunia yang sama seperti Bumi tapi jaraknya 5000 tahun cahaya. Dan hanya 1 juta orang saja di sana. Dan aku dari dimensi lain dimana manusia mendominasi Bumi. Ada United States of America, Russian Federation, China, Indonesia, India, Pakistan, Sudan, Egypt. Dan peradaban Sentinel di pulau Sentinel Utara. Apakah mereka ada di Sentinel Utara di dimensi ini?
+Neanderthal Person (Mysterious Country) : Pulau apa itu?
+Rizky Pramudya (Trovidia Community) : Pulau Sentinel Utara.
+Neanderthal Person (Mysterious Country) : Oh, pulau yang kamu maksud itu pulau Yasfana Sentinel? Mereka jelas ada. Mereka merupakan bagian dari Sentinelese Kingdom.
+Rizky Pramudya (Trovidia Community) : Oh, apakah Sentinelese Kingdom benar-benar ada? Kalau begitu, pasti mereka agresif seperti di dimensiku.
+Neanderthal Person (Mysterious Country) : Tidak, manusia. Mereka justru ramah kepada kita. Buktinya mereka merupakan salah satu dari tiga negara berspesies Homo sapiens sapiens. Mereka bersedia bekerja sama dengan kami. Bahkan pulau Yasfana Sentinel atau yang kamu sebut North Sentinel Island, terdapat infrastruktur pelabuhan dan perumahan disana. Kenapa, manusia?
+Rizky Pramudya (Trovidia Community) : Okelah kalau begitu. Sayangnya, tidak demikian dengan Sentinel di dimensiku. Mereka terlalu agresif kepada pendatang. Bahkan alien sekalipun. Soalnya aku pernah mendengar seorang alien dari tata surya lain mencoba mendekati Sentinel namun berakhir dengan serangan panah oleh mereka. Kita saja dipanah, apalagi alien.
+Neanderthal Person (Mysterious Country) : Oh, kalau begitu mereka sangat tertutup dari dunia luar. Mereka tidak mau berinteraksi dengan pengunjung atau alien dari luar angkasa. Tapi, saya sangat menyayangkan tindakan mereka yang berada di dimensimu. Saya pernah mendengar sekumpulan ilmuan spesies kami dan ilmuan para manusia yang katanya menghilang di pulau dekat dengan Sentinel Utara namun secara geografis berakhir di pulau tersebut. Dan mereka tidak kunjung kembali bahkan dalam waktu yang lama.
+Rizky Pramudya (Trovidia Community) : Kok bisa? Apakah mereka memasuki pulau tersebut di dimensiku atau memang bisa jadi mereka memasuki dimensi lain namun peradaban tersebut barbar sehingga lari kemanapun sulit?
+Nesomar Maetalas (Jaetas) : Bisa jadi. Oke, sebelum saya tinggal pergi. Saya Nesomar Maetalas yang berasal dari negara ini yang disebut Jaetas. Selamat berkenalan dengamu.
+Rizky Pramudya (Trovidia Community) : Aku Rizky Pramudya, dari Trovidia Community, peradaban di planet Setropis, bintang Miftahul. Selamat juga.
+Nesomar Maetalas (Jaetas) : Saya tinggal pergi dulu.
+
+(Beberapa waktu kemudian di peta)
+Rizky Pramudya (Trovidia Community) : Halo semuanya. Apakah kalian memang spesies Neanderthal?
+Sempurulian Person (Sempurul Foste) : Septukara, Humana. Iya, kenapa memangnya Humana?
+Rizky Pramudya (Trovidia Community) : Aku memutuskan untuk memasuki dimensi yang berisi orang Neanderthal. Kemudian, ketika aku melihat infrastruktur yang berbeda, aku jalan-jalan di kota di negara Jaetas dan merasa aneh mengapa orang-orang ini mirip dengan spesies Homo neanderthalensis? Lalu aku yakin ternyata mereka memang Neanderthal. Apakah benar dunia ini dunia Neanderthal?
+Sempurulian Person (Sempurul Foste) : Oh, oke-oke aku mengerti. Kamu benar, dunia ini dunia Neanderthal. Kami manusia Neanderthal.
+Rizky Pramudya (Trovidia Community) : Lalu, apakah di sini ada manusia yang berspesies Homo sapiens sapiens? Mengapa dunia ini manusia Homo sapiens sapiens bisa ada padahal seharusnya hanya Neanderthal saja yang bertahan.
+Sempurulian Person (Sempurul Foste) : Maksudmu spesies Humana? Masih ada. Terutama Sentinelese Kingdom, Humana, Humanamia merupakan negara Homo sapiens sapiens. Lalu, kamu benar kalau idealnya Neanderthal saja yang bertahan. Satu dunia satu spesies cerdas. Tapi, untungnya di sini kita damai dengan Homo sapiens. Bahkan kita mengajak mereka untuk bekerja sama dengan kita di seluruh dunia. Sejarahnya, 100 tahun sebelum kalender Neanderthal ditemukan, kami dan Homo sapiens sapiens berperang dan adu teknologi dengan Manusia. Kami merebut semua teknologi yang dimiliki oleh manusia karena manusia pada dasarnya memiliki sifat pelit. Mereka membuat teknologi dan penemuan hanya untuk mereka sendiri bahkan mereka mengancam dengan ancaman hukum dengan yang terparah adalah membunuh rajanya ketika kami mengembangkan teknologi yang sama. Meniru saja tidak boleh, apalagi menggunakan langsung teknologi dan budaya kemudian dikembangkan. Hingga suatu saat raja di negara Heesunindertalia yang bernama Kaheevi 4 dibunuh karena mendukung penemuan dan pengembangan teknologi manusia yang diinginkan oleh para Neanderthal, terjadilah perperangan antara Neanderthal dengan manusia. Peperangan tersebut melibatkan ratusan ribu Neanderthal dengan ratusan ribu manusia dan dimenangkan oleh kita. Ketika kita menang, kita membuat perjanjian agar teknologi dan budaya harus bisa diakses dengan mudah oleh siapapun tanpa takut diancam atau digugat oleh orang yang serakah akan kepemilikan. Dan perlahan-lahan, populasi spesies manusia semakin menyusut karena semakin tertutup dan pelit terhadap dunia luar dan hanya beberapa saja yang bertahan sekarang ini karena mereka beradaptasi.
+Rizky Pramudya (Trovidia Community) : Oh, sejarah yang bagus sepertinya. Aku tertarik dengan sejarah itu, dan aku ingin menjalin kerja sama dengan kamu dan beberapa negara di dunia ini. Apa pendapatmu?
+Sempurulian Person (Sempurul Foste) : Wah, boleh saja. Saya akan menerima tawaran kerja samamu. Nanti saya akan mengirimkan para profesional saya untuk melakukan negosiasi denganmu. Saya senang sekali ada spesies lain dari dimensi lain yang ingin bekerja sama dalam melakukan mutual teknologi dan ekonomi untuk kita maju bersama-sama.
+Rizky Pramudya (Trovidia Community) : Oke, makasih atas infonya.
+
+Rizky Pramudya (Trovidia Community) : Halo, orang Sentinel?
+Sentinelese Person (Sentinelese Kingdom) : Hai. Septukara. Selamat datang di sini.
+Rizky Pramudya (Trovidia Community) : Aku Rizky Pramudya, berasal dari Trovidia Community. Aku berasal dari dimensi lain. Tapi bukan dari Bumi, melainkan dari planet yang mirip dengan Bumi. Apakah kamu memang manusia Homo sapiens sapiens?
+Sentinelese Person (Sentinelese Kingdom) : Ya, benar, Rizky. Kami manusia Homo sapiens sapiens. Wah, senang bertemu dengan manusia dari dimensi lain. Di sini kami sebagai minoritas. Kami salah satu dari tiga negara manusia di sini.
+Rizky Pramudya (Trovidia Community) : Oh, aku sudah mengetahui hal itu. Tapi, aku lahir di Bumi dimana hanya manusia Homo sapiens sapiens saja yang mendominasi Bumi di dimensiku. Aku juga sudah bertemu dengan beberapa manusia dari dimensi lain juga. Baru kali ini saja aku bertemu dengan peradaban yang bukan Homo sapiens sapiens.
+Sentinelese Person (Sentinelese Kingdom) : Oke. Semuanya, perkenalkan ini manusia dari dimensi lain. Dia bernama Rizky Pramudya.
+Maritimias Person (Maritimias Enmarsia) : Septukara, Humana. Septukara, Rizky.
+Kermonian Person (Kermonie) : Septukara, Humana. Selamat datang di dunia kami.
+Rizky Pramudya (Trovidia Community) : Halo, para Neanderthal. Aku datang dari dimensi lain dengan menggunakan mesin antardimensi yang aku miliki-
+Frinaleskian Government (Frinalesk Empire) : Tidak mungkin seseorang datang ke sini hanya dengan mesin antardimensi. Saya yakin orang yang datang dari dimensi lain itu hanyalah kebohongan atau hoaks. Mana buktinya kalau kamu punya mesin antardimensi? Buktinya juga dengan adanya dimensi lain mana? Ini pasti kamu termakan oleh propaganda pemerintah Sentinelese Kingdom? Dia pasti korup dan aneh. Hail Panthera!
+Maritimias Person (Maritimias Enmarsia) : Diam, pemerintah Frinalesk! Kamu memang pemerintah yang bermulut besar. Kalau sampai terjadi sebaliknya, kamu akan malu sendiri. Kau seenaknya saja menuduh yang tidak-tidak secara sembarangan. Kalau tidak punya pendapat yang rasional, sebaiknya kamu diam saja. Perbaiki masalah di negaramu sendiri.
+Frinaleskian Government (Frinalesk Empire) : Kenapa? Jadi, saya tidak boleh berpendapat gitu? Saya dukung saja gitu dia yang menyebarkan kebodohan seperti ini? Sudah tahu propagandanya yang membuat masyarakat mau dipimpin oleh rezim tirani seperti itu. Kamu juga imperialis, Maritimias.
+Maritimias Person (Maritimias Enmarsia) : Tidak, Frinalesk. Kamulah yang justru imperialis. Kamu juga berbohong dalam beberapa hal.
+Frinaleskian Government (Frinalesk Empire) : Kamulah yang berbohong! Kamulah yang imperialis.
+Maritimias Person (Maritimias Enmarsia) : Kamulah yang imperialis! Oke, cukup dengan pembahasan ini. Saya tutup telinga saja dah dari pembicaraan pemerintah ini.
+
+Rizky Pramudya (Trovidia Community) : Oke, apakah di sini ada suku Sentinel?
+Sentinelese Person (Sentinelese Kingdom) : Ya, kami sendiri merupakan suku Sentinel. Apa yang kamu perlukan?
+Rizky Pramudya (Trovidia Community) : Tidak ada. Apakah benar kamu pernah mengirimkan para ilmuwan Sentinel dan ilmuwan Jaetas lalu tidak pulang dalam waktu yang lama?
+Sentinelese Person (Sentinelese Kingdom) : Iya, benar. Kenapa kamu bisa tahu tentang hal ini?
+Rizky Pramudya (Trovidia Community) : Aku tahu dari orang yang berasal dari negara Sempurul Foste.
+Sentinelese Person (Sentinelese Kingdom) : Sebenarnya, kami menjalankan project rahasia yang bernama Tu Sentinelia Project. Project ini mengirimkan ilmuwan kami dan ilmuwan Neanderthal dari negara lain seperti Jaetas, Sempurul Foste, Maritimias Enmarsia, Nindertalia Enmarsia, dan beberapa negara tertentu. Mereka ini akan kami kirimkan ke dimensi lain atau dunia yang kami pikir tampak seperti belum dihuni. Namun, naas. Mereka semua tidak kembali-kembali ke dunia ini bahkan dalam waktu yang lama. Secara geografis mereka tiba di pulau Yasfana Sentinel. Kami kirimkan lagi beberapa ilmuwan dan personil ke sana namun semua juga tidak kembali-kembali. Mereka antara dibunuh oleh hewan buas atau menghilang secara misterius.
+Rizky Pramudya (Trovidia Community) : Aku pikir kalau bisa saja mereka ini pergi ke dimensiku? Atau memang ke dimensi lainnya juga? Kalau ke dimensiku. Para suku Sentinel di dimensiku ini memang ganas dan agresif. Mereka menyerang siapa saja yang mendatanginya bahkan alien sekalipun aku pikir juga diserangnya dengan panah. Sampai berita terakhir yang aku ketahui tahun 2053 dimana beberapa segerombolan kelompok memasuki pulau tersebut namun dibunuh semua oleh orang Sentinel di dimensiku ini. Aku secara emosi bisa geram dalam hal itu. Tapi bagaimana lagi, aku tahu kalau itu urusan peradaban manusia Bumi ini. Banyak pengunjung dengan tujuan apapun dibunuh oleh mereka.
+Sentinelese Person (Sentinelese Kingdom) : Itu sungguh buruk. Apa mereka tidak punya hati terhadap pengunjung. Sebaiknya setiap suku kalau tidak siap setidaknya kembali ke rumah saja, jangan membunuh pengunjung yang tidak bersalah. Karena itu, mengapa kami sedang mempersiapkan rencana untuk melancarkan operasi militer Sentinelia ini.
+Rizky Pramudya (Trovidia Community) : Please, jangan lakukan itu. Mereka bisa punah.
+Sentinelese Person (Sentinelese Kingdom) : Kenapa tidak? Mereka saja tidak manusiawi dengan kami. Dengan pengunjung di dimensimu lagi.
+Rizky Pramudya (Trovidia Community) : ....
+
+Rizky Pramudya (Trovidia Community) : Kalau begitu, kalau memang itu berasal dari dimensiku, saranku masuk dari dalam pulau North Sentinel. Jangan dari luar karena kalau dari luar bisa dihadang oleh penjaga dari negara India. Lalu, tahan serangan panah dari mereka dan lakukan invasi. Kemudian, tangkap mereka semua. Barulah kamu duduki pulau tersebut dan bangun berbagai infrastruktur di sana.
+Sentinelese Person (Sentinelese Kingdom) : Oke. Dan itu memang rencana kami. Kami anggap mereka sebagai pelaku kriminal. Apakah kamu mau membantu kami dengan mengirimkan pasukan militermu?
+Rizky Pramudya (Trovidia Community) : Maaf, aku tidak bisa bantu. Tapi, setidaknya aku membantu memberikan tipsnya ke kamu. Semoga beruntung.
+
+Amolan Person (Amolan Empire) : Septukara, Humana. Saya memiliki sebuah proyek perusahaan teknologi di sini. Apakah kamu bersedia membantu kami? Kami akan tetap memperhatikan kebebasan masyarakat dalam mengakses teknologi kami. Jika kamu tertarik, saya akan kirimkan para pekerja dan pedagang saya ke negaramu di dimensimu.
+Rizky Pramudya (Trovidia Community) : Oke, aku terima penawaranmu. Aku senang sekali dengan bangsa dan negara yang bersedia melakukan kerja sama dengan kami namun tetap mengutamakan kebebasan masyarakat untuk mengakses teknologi dan propertinya. Makasih atas penawarannya. Ada lagi?
+Serennese Person (Serenna Federation) : Saya menawarkan sesuatu pada kamu. Persilahkan kami untuk bekerja sama kepadamu. Kita bekerja sama untuk memajukan peradaban kita bersama-sama. Saya berencana untuk menanam investasi pada negaramu.
+Zaleskmian Psychologist (Zaleskmia) : Saya ingin menjalin kerja sama kepadamu dalam hal psikologi dan sosiologi. Saya harap kamu akan bersedia menerima tawaranku. Terima kasih.
+Jaetasian Docter (Jaetas) : Dalam hal kesehatan, saya berencana untuk bekerja sama denganmu. Apakah kamu bersedia?
+Kermonian Computation Master (Kermonie) : Saya bisa komputasi, bisakah saya ikut kepadamu untuk tinggal di negaramu? Saya sendiri akan bekerja sama dengan para periset lain di negaramu bersama orang-orang ini.
+Nindertalian Lecturer (Nindertalia Enmarsia) : Sebelum kamu pergi, bolehkah kami mengirimkan pelajar kami untuk belajar di tempatmu?
+Rizky Pramudya (Trovidia Community) : Makasih Neanderthal. Kali ini aku dapat banyak permintaan kerja sama yang datang kepadaku untuk negara Trovidia dan kalian semua. Sebenarnya, aku dapat kerja sama dengan Pleiades dan negara lain yang tidak aku ketahui asalnya. Kemudian, kerja sama oleh para negara dari banyak dimensi lain sebelumnya. Namun kali ini aku dapat penawaran kerja sama lagi oleh kalian. Dan tentu saja aku menerima tawaran kerja sama oleh kalian. Aku senang sekali ada yang saling membantu dan visi yang sama dalam mengembangkan peradaban ini.
+Frinaleskian Person (Frinalesk Empire) : Kamu sebaiknya tidak usah meninggi dan bangga dengan hal dengan begitu gampangnya.
+Jaetasian Person (Jaetas) : Kamu tidak perlu menanggapi dia.
+Rizky Pramudya (Trovidia Community) : Sekarang tahun berapa ya?
+Sempurulian Person (Sempurul Foste) : 1720 NY. Tentu saja.
+Rizky Pramudya (Trovidia Community) : Kok 1720, peradaban ini bisa maju seperti ini.
+Sentinelese Person (Sentinelese Kingdom) : 1720 adalah tahun kalender Neanderthal. NY artinya Neanderthal Years. Kalau tahun manusia, 2025 AD adalah tahun manusia dalam kalender Gregorian.
+Rizky Pramudya (Trovidia Community) : Oke, aku baru paham sekarang.
+
+Rizky Pramudya (Trovidia Community) : Selamat tinggal. Dan terima kasih.
+
+(On Earth)
+(2063 CE)
+
+Sudanese Person (Sudan) : Suasana cukup sepi. Tidak seperti biasanya. Apa yang terjadi? Ah, saya lebih baik menikmati pemandangan dulu saja.
+
+Sudanese Person (Sudan) : Saya hendak mengambil hologram untuk membaca berita tersebut.
+
+Sudan Center News (Sudan) : Ada sosok orang ini muncul secara misterius yang menggunakan pakaian dan barang teknologi yang diduga berasal dari masa depan. Dia membawa mesin aneh yang fungsinya masih belum diketahui. Dia menceritakan jika dia berasal dari dimensi lain di mana teknologinya jauh lebih maju dibandingkan teknologi yang pernah ada di dunia ini. Orang ini berjalan-jalan dan melihat pemandangan selayaknya orang biasa membawa sejumlah dokumen yang tidak diketahui itu. Hingga ketika diinterogasi dan dibawa ke ruangan riset. Namun, ketika dia keluar menuju ruang tersebut dan menghilang secara misterius. (News Form)
+Sudanese Person (Sudan) : Hmmm, menarik. Tapi, saya tidak yakin kalau berita ini memang benar. Soalnya, jika lihat berita atau cerita tentang sosok orang misterius yang mengklaim dirinya penjelajah waktu, hampir semuanya dipertanyakan dan berakhir menjadi hoaks. Oke, saya akan keluar sebentar.
+
+(Sudanese Person keluar dari apartemen)
+
+Sudanese Person (Sudan) : Mengapa tata kotanya menjadi berantakan seperti ini? Banyak sekali kertas-kertas yang ditempeli di blok bangunan ini.
+
+Sudanese Person (Sudan) : Oh tidak, spanduk papan itu... Menampilkan adegan sadisme yang seharusnya tidak ditampilkan di sini. Hufft... Siapa yang menampilkan spanduk hologram itu? Apakah si operator tidak becus dalam bekerja?! Lalu, siapa yang memasang brosur atau propaganda yang kalau dipikir-pikir ini sungguh aneh. Padahal masyarakat di sini mendukung langkah pemerintah kita.
+
+Sudanese Person (Sudan) : Oh tidak, tidak mungkin ini terjadi. Aku harus segera pulang ke rumah.
+
+Sudan Government (Sudan) : Ada apa ini? Bagaimana bisa mereka melakukan demonstrasi seperti ini sedangkan orang-orang di sini yang pernah saya dan dia amati tidak seperti itu. Mereka cukup teredukasi dan kritis. Demonstrasi kali ini sungguh aneh, tidak pernah terjadi sebelumnya.
+
+Mysterious Protest Front (Sudanese Rebels) : Turunkan Abib Mutohar sekarang! Kau tidak becus dalam memerintah dan memimpin Sudan!
+Sudanese Person (Sudan) : Apa ini? Kok bisa mereka berdemo terhadap pemerintah Sudan? Darimana mereka ini berasal? Padahal, orang di sini tidak seperti itu. Orang di sini rata-rata teredukasi dan melek terhadap validitas pada sesuatu. Sehingga, orang di sini kritis. Ini pasti ada sesuatu yang janggal.
+(Blackscreen tiba-tiba)
+
+==================================================
+English
+==================================================
+
+(Di Strand)
