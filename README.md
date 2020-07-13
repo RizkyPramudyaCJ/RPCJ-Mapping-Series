@@ -5,4 +5,4 @@ This story was licensed under CC BY 4.0.
 
 # What is repositories purpose
 This repository is purposed for store my dialog, plotlines, timelines, or episode storylines of my any mapping series.
-For mapping video, you can visit to my YouTube called Rizky Pramudya.
+For mapping video, you can visit to my YouTube called Rizky Pramudya Mapping or Nindertalia Imagination.
